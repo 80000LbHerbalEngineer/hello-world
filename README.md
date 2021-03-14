@@ -10,4 +10,4 @@ learning! I'm touch-typing this...slowly.
 With steady, focused learning and practice, my goal is to build a PWA 
 (Progressive Web App) using html, CSS, Javascript, and Vue. The focus will be
 on herbal community, educational resources, and pooling resources and 
-intention to create positive change.
+intention to create positive change!
